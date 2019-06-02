@@ -1,0 +1,36 @@
+{
+  "name": "vertaalbureau",
+  "version": "1.0.0",
+  "description": "Vertalingen van/naar Frans",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeslee-nl/vertaalbureau.git"
+  },
+  "keywords": [
+    "translation",
+    "French",
+    "Dutch",
+    "English"
+  ],
+  "author": "Cees van Wieringen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeslee-nl/vertaalbureau/issues"
+  },
+  "homepage": "https://github.com/jeslee-nl/vertaalbureau#readme",
+  "dependencies": {
+    "@zeit/next-sass": "^1.0.1",
+    "bootstrap": "^4.3.1",
+    "next": "^8.1.0",
+    "node-sass": "^4.12.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
